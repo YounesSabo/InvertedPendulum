@@ -1,0 +1,15 @@
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+.vscode/arduino.json
+matlab_script.m~
+__pycache__/*
+matlab_tools/*.m~
+students/*
+solutions/*
+solutions_/*
+temp/*
+tmp/
+maglev2_controller.py
+maglev2.m
+tmp/
+src/__pycache__/
